@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate-RegistrationWithBlankInformation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a57520c7-9be0-4dc0-8ab4-c31764511846</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify-SuccessfulOrderProcess</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a16b2c5f-27a2-493b-8253-8e47a5576979</testCaseGuid>
+   <variable>
+      <defaultValue>'Nairobi'</defaultValue>
+      <description></description>
+      <id>3785b9f7-92cd-4fab-af98-628df36f38d4</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'P.O. BOX 11111'</defaultValue>
+      <description></description>
+      <id>5fb8ad2c-9369-4254-923b-d1af2c6125cf</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>'00400'</defaultValue>
+      <description></description>
+      <id>5ec03a0d-4c2a-4221-abf2-005e6654565c</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'0711223344'</defaultValue>
+      <description></description>
+      <id>e7e485de-0bcb-4b98-be65-9eafa52b048d</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'04030'</defaultValue>
+      <description></description>
+      <id>241053ee-fcbf-40f8-b03b-0a6c26472108</id>
+      <masked>false</masked>
+      <name>fax</name>
+   </variable>
+   <variable>
+      <defaultValue>'shippingoption_1'</defaultValue>
+      <description></description>
+      <id>d2a4afd9-b402-4261-bbd1-41e48910ee72</id>
+      <masked>false</masked>
+      <name>shippingOption</name>
+   </variable>
+   <variable>
+      <defaultValue>'paymentmethod_1'</defaultValue>
+      <description></description>
+      <id>fa65f823-b617-4c05-b4c8-ef54a04a22cb</id>
+      <masked>false</masked>
+      <name>paymentOption</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify-SearchingAndAddingToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62364352-5c20-4f9f-ba32-29d02678a7ed</testCaseGuid>
+   <variable>
+      <defaultValue>'Flower Girl Bracelet'</defaultValue>
+      <description></description>
+      <id>9baff5f9-bc3a-48eb-853a-d81fcd04abe7</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

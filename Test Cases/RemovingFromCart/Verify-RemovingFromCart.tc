@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify-RemovingFromCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9495daf7-24d3-42ec-9965-47f40964e9f9</testCaseGuid>
+   <variable>
+      <defaultValue>'NOKIA LUMIA 1020'</defaultValue>
+      <description></description>
+      <id>b5990dc5-c4c1-489f-863e-3115bfd930c3</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>

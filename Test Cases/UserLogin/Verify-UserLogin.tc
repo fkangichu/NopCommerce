@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify-UserLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d72ed362-4a41-4621-8c48-34c1cbe7d081</testCaseGuid>
+   <variable>
+      <defaultValue>'faith.mukami@yahoo.com'</defaultValue>
+      <description></description>
+      <id>6167afeb-e8a8-4fa6-8b0a-c75a825f0bc7</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ilovetellytubbies'</defaultValue>
+      <description></description>
+      <id>404d172e-7743-4eb2-8b6f-3e98836b0ec7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

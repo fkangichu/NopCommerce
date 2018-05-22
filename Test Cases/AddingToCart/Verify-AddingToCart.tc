@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify-AddingToCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1de478d1-34ff-45bc-b5ed-7582597c4bed</testCaseGuid>
+   <variable>
+      <defaultValue>'Nokia Lumia 1020'</defaultValue>
+      <description></description>
+      <id>4355e5bc-9f56-43b5-814c-e826de248ffe</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+</TestCaseEntity>
